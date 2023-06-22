@@ -1,4 +1,9 @@
-**Real Estate Market Model (REMM) 2.0**  
+**Real Estate Market Model (REMM) 1.0**  
+
+This is the closest thing to the version of REMM run for the 2019 Regional Tranportation Plan:
+- 2015 Base Year Inputs
+- TDM version 8.3.0
+
 
 *Purpose:*  
  
