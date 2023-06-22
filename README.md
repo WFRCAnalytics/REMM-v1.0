@@ -3,6 +3,7 @@
 This is the closest thing to the version of REMM run for the 2019 Regional Tranportation Plan:
 - 2015 Base Year Inputs
 - TDM version 8.3.0
+- Updated from Python 2 to Python 3
 
 
 *Purpose:*  
